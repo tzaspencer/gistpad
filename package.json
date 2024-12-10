@@ -1514,7 +1514,7 @@
     "os-browserify": "^0.3.0",
     "path-browserify": "^1.0.1",
     "querystring-es3": "^0.2.1",
-    "rxjs": "^6.5.4",
+    "rxjs": "^6.6.7",
     "simple-git": "^1.126.0",
     "stream-http": "^3.2.0",
     "title-case": "^3.0.2",
